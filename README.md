@@ -1,7 +1,7 @@
 # .NET Conf Local - Uno Platform  
 Presentation for the [Dot Net North](https://www.meetup.com/DotNetNorth) '.NET Conf Local' event in January 2024. An overview of Uno Platform 5.0. [Meetup listing](https://www.meetup.com/dotnetnorth/events/296423665/).
 
-Presentation Link (to follow)  
+[Presentation Link](https://mikeirvingweb.s3.eu-west-2.amazonaws.com/dotnet-conf-local-jan-2024-uno-platform/2024-01-23-Mike-Irving-Uno-Platform-5.0.pptx)  
 
 ![.NET Conf Local](dotnetconf-banner.jpg)
 
@@ -14,7 +14,7 @@ Presentation Link (to follow)
 - New and Improved MVUX Pattern  
 - Two New Workshops  
 
-Based on original .NET Conf session, featuring Francois Tanguay & Jerome Laban. Video link below.  
+Based on original .NET Conf session, featuring [Francois Tanguay](https://github.com/francoistanguay) & [Jérôme Laban](https://github.com/jeromelaban). Original Video link below.  
 
 ---
 
