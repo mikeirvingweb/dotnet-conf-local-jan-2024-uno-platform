@@ -24,8 +24,11 @@ Based on original .NET Conf session, featuring [Francois Tanguay](https://github
 🌍 [Uno Platform](https://platform.uno/)  
 🧮 [Uno Platform: Simple Calc Workshop](https://platform.uno/simple-calc/)  
 🎨 [Uno Platform for Figma](https://platform.uno/unofigma/)  
-📺 [Original .NET Conf session, featuring Francois Tanguay & Jerome Laban](https://www.youtube.com/watch?v=EgftgnNz-lA)  
 🧑‍💻 [GitHub](https://github.com/unoplatform)  
+  
+📺 [Original .NET Conf session, featuring Francois Tanguay & Jerome Laban](https://www.youtube.com/watch?v=EgftgnNz-lA)  
+📺 [.NET Conf C# Markup session, Pedro Jesus](https://www.youtube.com/watch?v=reABzYvzGes)  
+
 
 ---
 For more info, find / contact me at:  
